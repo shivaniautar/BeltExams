@@ -1,0 +1,184 @@
+#wrapper{
+    background-color:rgb(20, 37, 51);
+}
+/*____________________________________________ top bar start*/
+#topbar{
+background-color: rgb(20, 37, 51);
+margin-top: 0px;
+}
+
+.jameswhite{
+    color: white;
+}
+.consultingblue{
+    color: rgb(90, 188, 221);
+    padding-left: 10px;
+    padding-right: 650px
+}
+
+.jameswhite, .consultingblue{
+    display: inline-block;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#topbar a{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    padding: 10px 30px;
+}
+/*____________________________________________ top bar done*/
+/*____________________________________________ middle main pic start*/
+#snowboardingpic{
+    background-color: white;
+    padding:20px;
+    margin-left: 20px;
+}
+/*_____________________________________________ middle main pic done*/
+/*_____________________________________________ Start Services, Projects, Clients*/
+#services, #projects, #clients{
+    background-color:rgb(66, 127, 240);
+    width: 457px;
+    display: inline-block;
+    margin-left:20px;
+}
+
+#servicesprojectsclients h2, p{
+    color: white;
+    align-content: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+#servicesprojectsclients h2{
+    font-size:xx-large;
+}
+#servicesprojectsclients p{
+    padding: 0px 20px;
+}
+#servicesprojectsclients button{
+    background:repeating-linear-gradient(rgb(94, 141, 230), rgb(25, 25, 182));
+    padding:15px 40px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    margin:20px 20px;
+}
+
+#servicesprojectsclients img, #servicesprojectsclients h2{
+    display: inline-block; 
+    vertical-align: middle;
+    margin: 10px;
+}
+
+#servicesprojectsclients{
+    background-color: white;
+    margin-left:20px;
+    margin-right: 23px;
+    vertical-align: middle;
+}
+/*_____________________________________________ Start Services, Projects, Clients done*/
+
+#serviceprojectsclients, #middletitles{
+    display: block;
+}
+#middletitles{
+    background: white;
+    display: inline-block;
+    margin-top: 0px;
+    padding-top:10px;
+    padding-left: 20px;
+    font-family: sans-serif;
+    font-size: 22px;
+    margin-left:20px;
+    margin-right:23px;
+}
+
+.firstmiddletitle, .secondmiddletittle{
+    display: inline-block; 
+}
+
+.secondmiddletittle{
+    padding-left: 483px;
+    padding-right:255px;
+}
+/*_____________________________________________ The world is yours and testimonial start*/
+
+
+#middletitles, #Theworldcanbeyoursandtestimonial{
+    display: block;
+}
+#Theworldcanbeyoursandtestimonial{
+    background-color: white;
+    margin-left:20px;
+    padding-left: 18px;
+    margin-right:23px;
+}
+
+
+
+#OneofThreeoftheworldcanbeyoursandtestimonial, #TwoofThreeoftheworldcanbeyoursandtestimonial, #ThreeofThreeftheworldcanbeyoursandtestimonial{
+    background-color:white;
+    width: 457px;
+    display: inline-block;
+    text-align: top;
+   
+    
+}
+#OneofThreeoftheworldcanbeyoursandtestimonial img{
+    padding-left: 10px;
+}
+#TwoofThreeoftheworldcanbeyoursandtestimonial p{
+    color: black;
+    padding:10px 10px;
+}
+#TwoofThreeoftheworldcanbeyoursandtestimonial button{
+    text-decoration: none;
+    background-color: white;
+    border: none;
+    color: rgb(63, 74, 238);
+    padding-left: 10px;
+    font-size: large;
+    font-family: sans-serif;
+}
+/*INITIALLY I MADE THE LEARN MORE A LINK
+#TwoofThreeoftheworldcanbeyoursandtestimonial a{
+    text-decoration: none;
+    color: rgb(63, 74, 238);
+    padding-left: 10px;
+    font-size: large;
+    font-family: sans-serif;
+}
+*/
+#ThreeofThreeftheworldcanbeyoursandtestimonial{
+    background-color: white;
+    text-align: top;
+}
+.wordsfromsamantha{
+    background-color: rgb(104, 188, 216);
+    color: black;
+    font-style: italic;
+    padding-left: 40px;
+    padding-bottom: 100px;
+    padding-right:40px;
+    padding-top: 40px;
+}
+
+.samanthaname{
+    color: black;
+}
+
+/*____________________________________________________footer start*/
+footer{
+    background-color: lightblue;
+    margin-left:20px;
+    margin-right:23px;
+    margin-top:3px;
+    padding:20px 20px;
+    text-align: center;
+}
+footer a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: darkblue;
+    padding:30px 50px;
+}
